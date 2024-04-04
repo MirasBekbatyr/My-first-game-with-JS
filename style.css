@@ -1,0 +1,36 @@
+.h500{
+	height: 500px;
+
+}
+
+.red{
+	background-color: red;
+}
+
+.white{
+	color: white;
+}
+
+.w100{
+	width: 250px;
+}
+
+.h50{
+	height: 50px;
+}
+
+.mt50{
+	margin-top: 50px;
+}
+
+.h300{
+	height: 300px;
+}
+
+.h625{
+	height: 565px;
+}
+
+.fma{
+	font-family: Arial;
+}
